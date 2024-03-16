@@ -63,8 +63,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Screenshot 2024-03-16 at 3 16 27 PM](https://github.com/judesonleo/SparkleSpotAWSFrontend/assets/77841006/f87728a3-c1eb-48b3-818d-92a1346b2087)
+
+
+
+
+
